@@ -93,5 +93,6 @@ I completed the AWS CCP over 7 weeks, starting from no IT background. My goal wa
     - [AWS CCP Test 2](https://rubansi.github.io/aws-tests/)
 
 ---
+Thanks for reading! If you found this useful, please star the repo or share your feedback.
 
 
