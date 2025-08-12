@@ -69,7 +69,7 @@ I completed the AWS CCP over 7 weeks, starting from no IT background. My goal wa
 
 - Time-savers and pitfalls
     - Build a service comparison cheat sheet early. 
-    - See [my comparison sheet](https://docs.google.com/spreadsheets/d/1R8WSIXJ-p-6imQzTiD1tjQwb5bgU6svS/edit?usp=sharing&ouid=105712625731198941432&rtpof=true&sd=true)
+    - See [my cheat sheet](https://docs.google.com/spreadsheets/d/1R8WSIXJ-p-6imQzTiD1tjQwb5bgU6svS/edit?usp=sharing&ouid=105712625731198941432&rtpof=true&sd=true)
     
 ## What’s Next
 
